@@ -9,6 +9,7 @@ namespace DTO.Pessoa
     public class Cliente : Pessoa
     {
         public string tipoCliente { get; set; }
+        public string classificacao { get; set; }
 
         public override string ToString()
         {
