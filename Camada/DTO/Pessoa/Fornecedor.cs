@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace DTO.Pessoa
 {
-    class Fornecedor
+    public class Fornecedor
     {
     }
 }
