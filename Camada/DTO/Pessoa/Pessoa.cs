@@ -8,9 +8,9 @@ namespace DTO.Pessoa
 {
     class Pessoa
     {
-        public int Id { get; set; }
-        public string Nome { get; set; }
-        public string CPF { get; set; }
-        public string RG { get; set; }
+        public int id { get; set; }
+        public string nome { get; set; }
+        public string cpf { get; set; }
+        public string rg { get; set; }
     }
 }
