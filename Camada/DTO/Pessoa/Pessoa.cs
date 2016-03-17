@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace DTO.Pessoa
 {
-    public class Pessoa
+    public abstract class Pessoa
     {
         public int id { get; set; } //Atributo auto incremento
         public string nome { get; set; }
