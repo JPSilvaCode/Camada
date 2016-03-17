@@ -16,7 +16,9 @@ namespace CATest
             c1.nome = "Cliente 1";
             c1.cpf = "000.000.000-00";
             c1.rg = "AA 00.0000-00";
-            c1.tipoCliente = "Consumidor Final";      
+            c1.tipoCliente = "Consumidor Final";
+
+            Console.WriteLine(c1.ToString());
         }
     }
 }
