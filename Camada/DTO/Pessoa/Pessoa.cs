@@ -8,7 +8,7 @@ namespace DTO.Pessoa
 {
     class Pessoa
     {
-        public int id { get; set; }
+        public int id { get; set; } //Atributo auto incremento
         public string nome { get; set; }
         public string cpf { get; set; }
         public string rg { get; set; }
