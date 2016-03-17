@@ -8,6 +8,6 @@ namespace DTO.Pessoa
 {
     public class Cliente : Pessoa
     {
-        public char tipoPessoa { get; set; }
+        public char tipoCliente { get; set; }
     }
 }
