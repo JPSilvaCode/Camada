@@ -19,6 +19,7 @@ namespace CATest
             c1.tipoCliente = "Consumidor Final";
 
             Console.WriteLine(c1.ToString());
+            Console.ReadLine();
         }
     }
 }
