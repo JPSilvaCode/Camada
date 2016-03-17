@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace DTO.Pessoa
 {
-    class Cliente : Pessoa
+    public class Cliente : Pessoa
     {
         public char tipoPessoa { get; set; }
     }
