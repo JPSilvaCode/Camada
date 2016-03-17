@@ -13,7 +13,7 @@ namespace DTO.Pessoa
 
         public override string ToString()
         {
-            return string.Format("Id: {0} - Nome: {1}", id, nome);
+            return string.Format("Id: {0} - Nome: {1} - CPF: {2}", id, nome, cpf);
         }
     }
 }
