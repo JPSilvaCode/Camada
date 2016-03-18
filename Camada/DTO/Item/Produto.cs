@@ -8,12 +8,12 @@ namespace DTO.Item
 {
     public class Produto
     {
+        public int id { get; set; }
+        public string descricao { get; set; }
 
         public override string ToString()
         {
             return base.ToString();
         }
-        public int id { get; set; }
-        public string descricao { get; set; }
     }
 }
