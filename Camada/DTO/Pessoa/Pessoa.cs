@@ -12,6 +12,6 @@ namespace DTO.Pessoa
         public string nome { get; set; }
         public string cpf { get; set; }
         public string rg { get; set; }
-        public string Email { get; set; }
+        public string Email { get; set; } //Atributo novo
     }
 }
