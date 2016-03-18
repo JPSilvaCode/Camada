@@ -43,7 +43,6 @@
     <Compile Include="Pessoa\Cliente.cs" />
     <Compile Include="Pessoa\Fornecedor.cs" />
     <Compile Include="Pessoa\Pessoa.cs" />
-    <Compile Include="Pessoa\Transportadora.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup />
