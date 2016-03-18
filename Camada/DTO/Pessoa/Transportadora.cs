@@ -8,5 +8,6 @@ namespace DTO.Pessoa
 {
     public class Transportadora
     {
+        public string tipo { get; set; }
     }
 }
