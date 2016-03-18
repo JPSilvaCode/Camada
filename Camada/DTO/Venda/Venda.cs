@@ -8,6 +8,6 @@ namespace DTO.Venda
 {
     public class Venda
     {
-        public int Id { get; set; }
+        public int id { get; set; }
     }
 }
