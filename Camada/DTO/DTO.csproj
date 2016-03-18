@@ -44,7 +44,6 @@
     <Compile Include="Pessoa\Fornecedor.cs" />
     <Compile Include="Pessoa\Pessoa.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="Pessoa\Transportadora.cs" />
   </ItemGroup>
   <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
