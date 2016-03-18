@@ -8,5 +8,7 @@ namespace DTO.Venda
 {
     public class ItemVenda
     {
+        public int Id { get; set; }
+        public Venda Venda { get; set; }
     }
 }
