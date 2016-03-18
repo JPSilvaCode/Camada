@@ -46,6 +46,7 @@
     <Compile Include="Pessoa\Transportadora.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Transportadora\TransportadoraPlaca.cs" />
+    <Compile Include="Venda\ItemVenda.cs" />
     <Compile Include="Venda\Venda.cs" />
   </ItemGroup>
   <ItemGroup />
