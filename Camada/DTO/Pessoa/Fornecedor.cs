@@ -9,5 +9,6 @@ namespace DTO.Pessoa
     public class Fornecedor
     {
         public string ramo { get; set; }
+        public DateTime UltimaCompra { get; set; }
     }
 }
