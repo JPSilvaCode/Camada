@@ -8,6 +8,6 @@ namespace DTO.Pessoa
 {
     public class Fornecedor
     {
-        public string ramo { get; set; }        
+        public string ramo { get; set; }  //comentario      
     }
 }
