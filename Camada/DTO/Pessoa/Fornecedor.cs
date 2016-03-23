@@ -9,5 +9,10 @@ namespace DTO.Pessoa
     public class Fornecedor
     {
         public string ramo { get; set; }  //comentario      
+
+        public override string ToString()
+        {
+            return base.ToString();
+        }
     }
 }
