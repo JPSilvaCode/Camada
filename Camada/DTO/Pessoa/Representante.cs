@@ -10,9 +10,9 @@ namespace DTO.Pessoa
     {
         public string tipo { get; set; }
 
-        public override string ToString()
-        {
-            return base.ToString();
-        }
+        //public override string ToString()
+        //{
+        //    return base.ToString();
+        //}
     }
 }
