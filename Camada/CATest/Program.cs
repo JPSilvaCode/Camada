@@ -20,6 +20,7 @@ namespace CATest
 
             Console.WriteLine(c1.ToString());
             Console.ReadLine();
+           
         }
     }
 }
